@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  like: false
+  comment: MyText
+  user: one
+  post: one
+
+two:
+  like: false
+  comment: MyText
+  user: two
+  post: two
